@@ -1,5 +1,4 @@
 # Ploufcord
 
 **Liens de notre serveur discord : https://discord.gg/mySJsNvSpJ**
-
-<img width="1000" height="500" alt="plouf_2" src="https://github.com/user-attachments/assets/4bbfc17c-c0b3-40d9-8198-c8885f3c050e" />
+<img width="1280" height="640" alt="plouf" src="https://github.com/user-attachments/assets/13d436e9-7947-464f-835c-038d5721c74c" />
